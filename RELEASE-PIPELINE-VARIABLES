@@ -1,0 +1,15 @@
+ANYPOINT_ORG         = YOUR ORGANIZATION NAME
+ANYPOINT_PASSWORD    = YOUR CLOUDHUB PASSWORD
+ANYPOINT_USERNAME    = YOUR CLOUDHUB USERNAME
+anypoint.uri         = https://anypoint.mulesoft.com
+app.runtime          = 4.3.0
+	
+businessGrpId        = YOUR CLOUDHUB ORGANIZATION ID
+
+cloudhub,applicationName  = APPLICAION NAME TO BE DEPLOYED IN CLOUDHUB
+
+cloudhubRegion       =  us-east-1
+cloudhubWorker       = 1
+cloudhubWorkertype   = 0.1
+
+filename             = $(System.DefaultWorkingDirectory)/Hello World build Pipeline/helloworld-artifact/target/demo-projectt-1.0.0-SNAPSHOT-mule-application.jar
